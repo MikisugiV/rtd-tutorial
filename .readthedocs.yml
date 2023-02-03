@@ -8,8 +8,8 @@ sphinx:
 python:
   # Install our python package before building the docs
   install:
-    - requirements: requirements/pip.txt
-    - requirements: requirements/docs.txt
+    - method: pip
+      path: .
 
 build:
   os: "ubuntu-22.04"
