@@ -9,7 +9,7 @@ sphinx:
 python:
   # Install our python package before building the docs
   install:
-    - requirements: docs/requirements.txt
+    - requirements: docs/source/requirements.txt
     - method: pip
       path: .
 
