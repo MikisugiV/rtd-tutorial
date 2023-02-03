@@ -3,13 +3,13 @@ version: 2
 formats: all
       
 sphinx:
-  configuration: docs/conf.py
+  configuration: docs/source/conf.py
   fail_on_warning: true
     
 python:
   # Install our python package before building the docs
   install:
-    - requirements: docs/requirements.txt
+    - requirements: docs//source/requirements.txt
     - method: pip
       path: .
 
