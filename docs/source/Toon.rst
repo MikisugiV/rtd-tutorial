@@ -1,0 +1,7 @@
+Toonie
+=====
+
+.. _installation:
+
+Installation
+------------

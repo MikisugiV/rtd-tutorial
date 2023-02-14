@@ -16,10 +16,16 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
---------
+.. Contents
+.. --------
+
+.. Hidden TOCs
 
 .. toctree::
+   :caption: Getting started
+   :maxdepth: 2
+   :hidden:
 
    usage
    api
+   Toon
