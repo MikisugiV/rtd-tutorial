@@ -1,7 +1,7 @@
 Toonie
 ======
 
-.. _installation:
+.. _install:
 
 Installation
 ------------
