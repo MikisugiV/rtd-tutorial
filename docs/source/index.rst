@@ -29,3 +29,12 @@ how to :ref:`installation` the project.
    usage
    api
    Toon
+
+.. toctree::
+   :caption: Getting started2
+   :maxdepth: 0
+   :hidden:
+
+   usage
+   api
+   Toon
