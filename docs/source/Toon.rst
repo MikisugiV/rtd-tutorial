@@ -1,5 +1,5 @@
 Toonie
-=====
+======
 
 .. _installation:
 
