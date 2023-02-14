@@ -35,6 +35,6 @@ how to :ref:`installation` the project.
    :maxdepth: 1
    :hidden:
 
-   usage
-   api
-   Toon
+   usage2
+   api2
+   Toon2
