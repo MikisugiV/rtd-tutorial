@@ -30,11 +30,11 @@ how to :ref:`installation` the project.
    api
    Toon
 
-.. toctree::
-   :caption: Getting started2
-   :maxdepth: 1
-   :hidden:
+.. .. toctree:
+..    :caption: Getting started2
+..    :maxdepth: 1
+..    :hidden:
 
-   test/usage2
-   test/api2
-   test/Toon2
+..    test/usage2
+..    test/api2
+..    test/Toon2
