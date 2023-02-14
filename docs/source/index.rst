@@ -32,7 +32,7 @@ how to :ref:`installation` the project.
 
 .. toctree::
    :caption: Getting started2
-   :maxdepth: 0
+   :maxdepth: 1
    :hidden:
 
    usage
