@@ -9,6 +9,8 @@ Lumache has its documentation hosted on Read the Docs.
 
 HALLO PAUL, you sure? really sure? Plausible? YES!!!
 
+PIZZA
+
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
