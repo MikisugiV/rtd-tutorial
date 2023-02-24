@@ -21,7 +21,7 @@ how to :ref:`installation` the project.
 .. Contents
 .. --------
 
-.. Hidden TOCs
+.. Hidden TOCsii
 
 .. toctree::
    :caption: Getting started
